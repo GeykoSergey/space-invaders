@@ -1,0 +1,14 @@
+#canvas1 {
+  border: 2px solid #141313;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+  background-image: url('background.png');
+}
+
+#beetlemorph,
+#player,
+#player_jets {
+  display: none;
+}
